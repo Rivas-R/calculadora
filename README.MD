@@ -1,3 +1,5 @@
+https://github.com/Rivas-R/calculadora
+
 1- Que hace document.querySelector(".display"); ?
 
 document.querySelector(".display");: Selecciona el primer elemento en el DOM con la clase display. Si no hay ningún elemento con esa clase, devuelve null.
